@@ -1,0 +1,4 @@
+- Hello, I live in Korea.
+- I am a beginner in coding
+- Bye
+- ^^
